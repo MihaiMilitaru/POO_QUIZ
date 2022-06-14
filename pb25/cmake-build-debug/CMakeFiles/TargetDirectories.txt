@@ -1,0 +1,3 @@
+C:/Users/mihai/OneDrive/Desktop/POO/POO_QUIZ/pb25/cmake-build-debug/CMakeFiles/pb25.dir
+C:/Users/mihai/OneDrive/Desktop/POO/POO_QUIZ/pb25/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mihai/OneDrive/Desktop/POO/POO_QUIZ/pb25/cmake-build-debug/CMakeFiles/rebuild_cache.dir
